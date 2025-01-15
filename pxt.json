@@ -10,7 +10,8 @@
         "README.md",
         "hoc2024.ts",
         "_locales/ru/hoc2024-ts-jsdoc-strings.json",
-        "_locales/ru/hoc2024-ts-strings.json"
+        "_locales/ru/hoc2024-ts-strings.json",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "targetVersions": {
